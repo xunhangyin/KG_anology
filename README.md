@@ -18,3 +18,4 @@ dataset:存放数据集的地方
 
 环境的话torch2.0版本以及transformers 4.40.0以及PIL
 
+emmm，上传的时候发现git没有把空的文件夹传上来，老师跑的话要自己创建dataset和CLIP文件夹。就在项目根目录里即可,和Code文件夹一样.
